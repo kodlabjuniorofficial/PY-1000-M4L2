@@ -1,0 +1,13 @@
+-- --- AŞAMA 2: SELECT (VERİ ÇEKME) ---
+
+-- [ÖĞRETMEN DEMO 1]: Dükkandaki tüm ürünlerin tüm bilgilerini (röntgen) görelim.
+-- ...
+
+-- [ÖĞRETMEN DEMO 2]: Müdür Bey karmaşa istemiyor. Sadece ürün isimlerini ve fiyatlarını getirin.
+-- ...
+
+-- [ÖĞRENCİ GÖREVİ 1]: Ürünlerin isimlerini ve mevcut stok adetlerini listeleyin.
+-- ...
+
+-- [ÖĞRENCİ GÖREVI 2]: Ürünlerin isimlerini ve bağlı oldukları kategori numaralarını listeleyin.
+-- ...
