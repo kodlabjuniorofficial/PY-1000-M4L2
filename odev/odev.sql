@@ -1,50 +1,13 @@
--- ==========================================================
--- 🕵️‍♂️ GÖREV: SİNEMA VERİ ANALİSTİ OPERASYONU
--- Veritabanı: top250.db | Tablo: top250
--- Amaç: Gelecek dersteki "Film Botu" projesi için veriyi tanı!
--- ==========================================================
+-- --- ÖDEV GÖREVLERİ ---
 
+-- 1. GÖREV: Fiyatı 50 TL ile 150 TL arasında olan tüm ürünleri listeleyin.
+-- ...
 
--- ----------------------------------------------------------
--- GÖREV 1: Arşivin En Eskileri
--- Listedeki en eski (yılı en küçük) 5 filmi, isim ve yıl 
--- bilgileriyle birlikte getirin.
--- ----------------------------------------------------------
--- BURAYA SQL KODUNU YAZIN:
+-- 2. GÖREV: "Temizlik" kategorisindeki (id=4) tüm ürünlerin fiyatını %20 düşürün (fiyat * 0.80).
+-- ...
 
+-- 3. GÖREV: İsminin içinde "Kurusu" geçen tüm ürünleri bulun ve onları sistemden silin.
+-- ...
 
-
--- ----------------------------------------------------------
--- GÖREV 2: Puan Şampiyonları
--- IMDb puanı (rating) 9.0 ve üzerinde olan tüm efsanevi 
--- filmleri listeleyin.
--- ----------------------------------------------------------
--- BURAYA SQL KODUNU YAZIN:
-
-
-
--- ----------------------------------------------------------
--- GÖREV 3: Tür Analizi (Raporlama)
--- Hangi film türünden (genre) kaç adet film olduğunu 
--- GROUP BY kullanarak özetleyin. 
--- (En çok hangi türün sevildiğini bulalım!)
--- ----------------------------------------------------------
--- BURAYA SQL KODUNU YAZIN:
-
-
-
--- ----------------------------------------------------------
--- GÖREV 4: Finansal Bakış (Analiz)
--- IMDb Top 250 listesindeki filmlerin ortalama bütçesini (budget) 
--- ve toplam hasılatını (box_office) hesaplayın.
--- ----------------------------------------------------------
--- BURAYA SQL KODUNU YAZIN:
-
-
-
--- ----------------------------------------------------------
--- GÖREV 5: Uzun Metrajlılar
--- Süresi (run_time) 180 dakikadan (3 saat) fazla olan 
--- filmleri bulun.
--- ----------------------------------------------------------
--- BURAYA SQL KODUNU YAZIN:
+-- 4. GÖREV: Ürün ID'si 1 olan ürünün stoğuna 200 adet ekleyin.
+-- ...
