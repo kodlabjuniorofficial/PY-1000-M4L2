@@ -1,4 +1,3 @@
-
 -- AŞAMA 5: 
 -- [ÖĞRETMEN DEMO]
 DELETE FROM Urunler WHERE fiyat > 400 AND stok_adedi < 25;
